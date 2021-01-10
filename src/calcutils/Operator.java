@@ -1,5 +1,8 @@
 package calcutils;
 
+/**
+ * Different operator
+ */
 public enum Operator {
-    PLUS, MOINS, FOIS, DIVISER
+    PLUS, MINUS, MULTIPLY, DIVIDE, MODULO
 }
